@@ -21,3 +21,7 @@
     This dataset can be useful for intent classification problems including chatbots.
 
 
+# create conda -n env python=3.8 -y
+# conda activate env
+# pip install -r requirements.txt
+# streamlit run main.py
